@@ -1,1 +1,1 @@
-tribulação
+"tribulação"
